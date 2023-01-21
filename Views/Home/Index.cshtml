@@ -1,0 +1,25 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+
+    var transient = (Carro)ViewBag.transient;
+    var scoped = (Carro)ViewBag.scoped;
+    var singleton = (Carro)ViewBag.singleton;
+    var transient2 = (Carro)ViewBag.transient2;
+    var scoped2 = (Carro)ViewBag.scoped2;
+    var singleton2 = (Carro)ViewBag.singleton2;
+}
+
+
+<div>
+    <b>Transient</b> @transient.vehiculo
+    <b>Scoped</b> @scoped.vehiculo
+    <b>Singleton</b> @singleton.vehiculo
+</div>
+<div>
+    <b>Transient</b> @transient2.vehiculo
+    <b>Scoped</b> @scoped2.vehiculo
+    <b>Singleton</b> @singleton2.vehiculo
+</div>
+
+
+

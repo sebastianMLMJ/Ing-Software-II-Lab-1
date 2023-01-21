@@ -1,0 +1,31 @@
+C:\Users\NITRO\Desktop\ING Soft II\Inyeccion de dependencias Prueba\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\NITRO\Desktop\ING Soft II\Inyeccion de dependencias Prueba\bin\Debug\net7.0\appsettings.json
+C:\Users\NITRO\Desktop\ING Soft II\Inyeccion de dependencias Prueba\bin\Debug\net7.0\Inyeccion de dependencias Prueba.staticwebassets.runtime.json
+C:\Users\NITRO\Desktop\ING Soft II\Inyeccion de dependencias Prueba\bin\Debug\net7.0\Inyeccion de dependencias Prueba.exe
+C:\Users\NITRO\Desktop\ING Soft II\Inyeccion de dependencias Prueba\bin\Debug\net7.0\Inyeccion de dependencias Prueba.deps.json
+C:\Users\NITRO\Desktop\ING Soft II\Inyeccion de dependencias Prueba\bin\Debug\net7.0\Inyeccion de dependencias Prueba.runtimeconfig.json
+C:\Users\NITRO\Desktop\ING Soft II\Inyeccion de dependencias Prueba\bin\Debug\net7.0\Inyeccion de dependencias Prueba.dll
+C:\Users\NITRO\Desktop\ING Soft II\Inyeccion de dependencias Prueba\bin\Debug\net7.0\Inyeccion de dependencias Prueba.pdb
+C:\Users\NITRO\Desktop\ING Soft II\Inyeccion de dependencias Prueba\obj\Debug\net7.0\Inyeccion de dependencias Prueba.csproj.AssemblyReference.cache
+C:\Users\NITRO\Desktop\ING Soft II\Inyeccion de dependencias Prueba\obj\Debug\net7.0\Inyeccion de dependencias Prueba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NITRO\Desktop\ING Soft II\Inyeccion de dependencias Prueba\obj\Debug\net7.0\Inyeccion de dependencias Prueba.AssemblyInfoInputs.cache
+C:\Users\NITRO\Desktop\ING Soft II\Inyeccion de dependencias Prueba\obj\Debug\net7.0\Inyeccion de dependencias Prueba.AssemblyInfo.cs
+C:\Users\NITRO\Desktop\ING Soft II\Inyeccion de dependencias Prueba\obj\Debug\net7.0\Inyeccion de dependencias Prueba.csproj.CoreCompileInputs.cache
+C:\Users\NITRO\Desktop\ING Soft II\Inyeccion de dependencias Prueba\obj\Debug\net7.0\Inyeccion de dependencias Prueba.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\NITRO\Desktop\ING Soft II\Inyeccion de dependencias Prueba\obj\Debug\net7.0\Inyeccion de dependencias Prueba.RazorAssemblyInfo.cache
+C:\Users\NITRO\Desktop\ING Soft II\Inyeccion de dependencias Prueba\obj\Debug\net7.0\Inyeccion de dependencias Prueba.RazorAssemblyInfo.cs
+C:\Users\NITRO\Desktop\ING Soft II\Inyeccion de dependencias Prueba\obj\Debug\net7.0\staticwebassets\msbuild.Inyeccion de dependencias Prueba.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\NITRO\Desktop\ING Soft II\Inyeccion de dependencias Prueba\obj\Debug\net7.0\staticwebassets\msbuild.build.Inyeccion de dependencias Prueba.props
+C:\Users\NITRO\Desktop\ING Soft II\Inyeccion de dependencias Prueba\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Inyeccion de dependencias Prueba.props
+C:\Users\NITRO\Desktop\ING Soft II\Inyeccion de dependencias Prueba\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Inyeccion de dependencias Prueba.props
+C:\Users\NITRO\Desktop\ING Soft II\Inyeccion de dependencias Prueba\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\NITRO\Desktop\ING Soft II\Inyeccion de dependencias Prueba\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\NITRO\Desktop\ING Soft II\Inyeccion de dependencias Prueba\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\NITRO\Desktop\ING Soft II\Inyeccion de dependencias Prueba\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\NITRO\Desktop\ING Soft II\Inyeccion de dependencias Prueba\obj\Debug\net7.0\scopedcss\bundle\Inyeccion de dependencias Prueba.styles.css
+C:\Users\NITRO\Desktop\ING Soft II\Inyeccion de dependencias Prueba\obj\Debug\net7.0\scopedcss\projectbundle\Inyeccion de dependencias Prueba.bundle.scp.css
+C:\Users\NITRO\Desktop\ING Soft II\Inyeccion de dependencias Prueba\obj\Debug\net7.0\Inyeccion de dependencias Prueba.dll
+C:\Users\NITRO\Desktop\ING Soft II\Inyeccion de dependencias Prueba\obj\Debug\net7.0\refint\Inyeccion de dependencias Prueba.dll
+C:\Users\NITRO\Desktop\ING Soft II\Inyeccion de dependencias Prueba\obj\Debug\net7.0\Inyeccion de dependencias Prueba.pdb
+C:\Users\NITRO\Desktop\ING Soft II\Inyeccion de dependencias Prueba\obj\Debug\net7.0\Inyeccion de dependencias Prueba.genruntimeconfig.cache
+C:\Users\NITRO\Desktop\ING Soft II\Inyeccion de dependencias Prueba\obj\Debug\net7.0\ref\Inyeccion de dependencias Prueba.dll
